@@ -8,6 +8,7 @@ class Test001ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		console.log(1);
 	}
 
 }
