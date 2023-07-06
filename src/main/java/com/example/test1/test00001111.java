@@ -5,7 +5,6 @@ public class test00001111 {
     sdfs
     asd
 }
-<<<<<<< HEAD
 
 asdfjkalsdjflaksdfjlk
 asdfasdfsda
@@ -14,6 +13,6 @@ sssss
 sdfsdf
 asdfjkalsdjflaksdfjlkasdfasd
 ssssssdfsdfsdf
-asdjfklasdjf
 
-
+asdfjkalsdjflaksdfjlk
+asdjfklasdjfdddd
